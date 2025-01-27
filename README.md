@@ -1,6 +1,3 @@
-Sure! Below is a structured `README.md` file code for the virtual keyboard project based on the provided context.
-
-```markdown
 # Virtual Keyboard
 
 ## Overview
